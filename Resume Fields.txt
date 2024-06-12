@@ -1,0 +1,60 @@
+Resume Fields
+
+1. Name
+2. Designation
+3. Summary (About)
+4. Photo Upload
+
+Contact 
+1. Phone
+2. Email
+3. Country
+4. City
+5. Address
+
+Social Media
+1. Wesbite
+2. LinkedIn
+3. Twitter
+4. Facebook
+5. GitHub
+6. Stack Overflow
+
+Education
+1. Study Program (School , College , Graduation)
+2. Institution Name
+3. Course Name
+4. Year (start - end)
+
+Work Experience
+1. Title / Position
+2. Workplace / Company
+3. City , Country
+4. Company Description
+5. Achievements / Task
+6. Contact Person (Name , Number)
+
+Skills
+1. Skill Name (Html , Css , Js , etc)
+
+Projects
+1. Project Name
+2. Year (Start - Completed)
+3. Description
+
+Certifie amecates
+1. Certificate Name
+2. Year (2024)
+3. Description
+
+Awards
+1. Award Name
+2. Year (2024)
+3. Description
+
+Languages 
+1. Language (English , Hindi , etc)
+2. Proficiency (1 , 2 , 3 , 4 , 5)
+
+Hobbies
+1. Hobbie Name
